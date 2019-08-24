@@ -1,0 +1,14 @@
+/ENTRY:entry
+/FIXED
+/NOLOGO
+/NODEFAULTLIB
+/MACHINE:X86
+/SUBSYSTEM:CONSOLE
+/DEBUG
+/DEBUGTYPE:CV
+/OUT:analyzator.exe
+/INCREMENTAL:NO
+main.obj
+kernel32.lib
+user32.lib
+msvcrt.lib

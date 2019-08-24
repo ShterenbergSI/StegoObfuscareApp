@@ -1,0 +1,12 @@
+/NODEFAULTLIB
+/NOLOGO
+/OUT:disasm32.lib
+distorm.obj
+instructions.obj
+insts.obj
+mnemonics.obj
+operands.obj
+prefix.obj
+textdefs.obj
+wstring.obj
+decoder.obj

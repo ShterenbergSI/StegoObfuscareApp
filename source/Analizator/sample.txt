@@ -1,0 +1,338 @@
+5a4d"C:\Program Files\Common Files\microsoft shared\ink\ConvertInkStore.exe"
+.text SizeOnDisk =0x20600; FreeSpaceOnDisk =0x88; SizeInMem =0x20488; FreeSpaceInMem =0x488;
+.data SizeOnDisk =0x600; FreeSpaceOnDisk =0x1d0; SizeInMem =0xbd0; FreeSpaceInMem =0xbd0;
+.rsrc SizeOnDisk =0x600; FreeSpaceOnDisk =0x20; SizeInMem =0x420; FreeSpaceInMem =0x420;
+.reloc SizeOnDisk =0x2000; FreeSpaceOnDisk =0xb2; SizeInMem =0x1eb2; FreeSpaceInMem =0xeb2;
+
+5a4d"C:\Program Files\Common Files\microsoft shared\ink\FlickLearningWizard.exe"
+.text SizeOnDisk =0x1b400; FreeSpaceOnDisk =0xcc; SizeInMem =0x1b2cc; FreeSpaceInMem =0x2cc;
+.data SizeOnDisk =0x600; FreeSpaceOnDisk =0x8c; SizeInMem =0xa8c; FreeSpaceInMem =0xa8c;
+.rsrc SizeOnDisk =0xbe200; FreeSpaceOnDisk =0x20; SizeInMem =0xbe020; FreeSpaceInMem =0x20;
+.reloc SizeOnDisk =0x2800; FreeSpaceOnDisk =0x1a6; SizeInMem =0x27a6; FreeSpaceInMem =0x7a6;
+
+5a4d"C:\Program Files\Common Files\microsoft shared\ink\InkWatson.exe"
+.text SizeOnDisk =0x28600; FreeSpaceOnDisk =0x172; SizeInMem =0x28572; FreeSpaceInMem =0x572;
+.data SizeOnDisk =0x800; FreeSpaceOnDisk =0x198; SizeInMem =0x998; FreeSpaceInMem =0x998;
+.rsrc SizeOnDisk =0x28a00; FreeSpaceOnDisk =0x198; SizeInMem =0x28998; FreeSpaceInMem =0x998;
+.reloc SizeOnDisk =0x2600; FreeSpaceOnDisk =0x40; SizeInMem =0x2440; FreeSpaceInMem =0x440;
+
+5a4d"C:\Program Files\Common Files\microsoft shared\ink\InputPersonalization.exe"
+.text SizeOnDisk =0x36400; FreeSpaceOnDisk =0x165; SizeInMem =0x36365; FreeSpaceInMem =0x365;
+.data SizeOnDisk =0xc00; FreeSpaceOnDisk =0xea; SizeInMem =0x10ea; FreeSpaceInMem =0xea;
+.rsrc SizeOnDisk =0xe400; FreeSpaceOnDisk =0xf0; SizeInMem =0xe2f0; FreeSpaceInMem =0x2f0;
+.reloc SizeOnDisk =0x2400; FreeSpaceOnDisk =0xe0; SizeInMem =0x22e0; FreeSpaceInMem =0x2e0;
+
+5a4d"C:\Program Files\Common Files\microsoft shared\ink\mip.exe"
+.text SizeOnDisk =0xb9200; FreeSpaceOnDisk =0x14a; SizeInMem =0xb914a; FreeSpaceInMem =0x14a;
+.data SizeOnDisk =0xa600; FreeSpaceOnDisk =0x4c; SizeInMem =0xb44c; FreeSpaceInMem =0x44c;
+.rsrc SizeOnDisk =0x5fc00; FreeSpaceOnDisk =0x1c8; SizeInMem =0x5fbc8; FreeSpaceInMem =0xbc8;
+.reloc SizeOnDisk =0x6c00; FreeSpaceOnDisk =0x170; SizeInMem =0x6b70; FreeSpaceInMem =0xb70;
+
+5a4d"C:\Program Files\Common Files\microsoft shared\ink\pipanel.exe"
+.text SizeOnDisk =0xe00; FreeSpaceOnDisk =0x28; SizeInMem =0xc28; FreeSpaceInMem =0xc28;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x178; SizeInMem =0x378; FreeSpaceInMem =0x378;
+.rsrc SizeOnDisk =0x400; FreeSpaceOnDisk =0x1f8; SizeInMem =0x3f8; FreeSpaceInMem =0x3f8;
+.reloc SizeOnDisk =0x200; FreeSpaceOnDisk =0x168; SizeInMem =0x168; FreeSpaceInMem =0x168;
+
+5a4d"C:\Program Files\Common Files\microsoft shared\ink\ShapeCollector.exe"
+.text SizeOnDisk =0x31200; FreeSpaceOnDisk =0x4e; SizeInMem =0x3104e; FreeSpaceInMem =0x4e;
+.data SizeOnDisk =0x1000; FreeSpaceOnDisk =0x1b4; SizeInMem =0x15b4; FreeSpaceInMem =0x5b4;
+.rsrc SizeOnDisk =0x5cc00; FreeSpaceOnDisk =0x188; SizeInMem =0x5cb88; FreeSpaceInMem =0xb88;
+.reloc SizeOnDisk =0x3800; FreeSpaceOnDisk =0x104; SizeInMem =0x3704; FreeSpaceInMem =0x704;
+
+5a4d"C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe"
+.text SizeOnDisk =0x19200; FreeSpaceOnDisk =0x14c; SizeInMem =0x1914c; FreeSpaceInMem =0x14c;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0xb8; SizeInMem =0x8b8; FreeSpaceInMem =0x8b8;
+.rsrc SizeOnDisk =0x10e00; FreeSpaceOnDisk =0x130; SizeInMem =0x10d30; FreeSpaceInMem =0xd30;
+.reloc SizeOnDisk =0x1e00; FreeSpaceOnDisk =0x8a; SizeInMem =0x1c8a; FreeSpaceInMem =0xc8a;
+
+5a4d"C:\Program Files\Common Files\microsoft shared\MSInfo\msinfo32.exe"
+.text SizeOnDisk =0x22400; FreeSpaceOnDisk =0x170; SizeInMem =0x22370; FreeSpaceInMem =0x370;
+.data SizeOnDisk =0x600; FreeSpaceOnDisk =0xd0; SizeInMem =0x50d0; FreeSpaceInMem =0xd0;
+.rsrc SizeOnDisk =0x24c00; FreeSpaceOnDisk =0x78; SizeInMem =0x24a78; FreeSpaceInMem =0xa78;
+.reloc SizeOnDisk =0x2600; FreeSpaceOnDisk =0x4e; SizeInMem =0x244e; FreeSpaceInMem =0x44e;
+
+5a4d"C:\Program Files\Common Files\VMware\Drivers\audio\vmaudio.sys"
+.text SizeOnDisk =0x900; FreeSpaceOnDisk =0x5c; SizeInMem =0x8dc; FreeSpaceInMem =0x5c;
+.rdata SizeOnDisk =0x880; FreeSpaceOnDisk =0xd; SizeInMem =0x80d; FreeSpaceInMem =0xd;
+.data SizeOnDisk =0x1280; FreeSpaceOnDisk =0x8; SizeInMem =0x1208; FreeSpaceInMem =0x8;
+PAGE SizeOnDisk =0x1500; FreeSpaceOnDisk =0x6a; SizeInMem =0x14ea; FreeSpaceInMem =0x6a;
+INIT SizeOnDisk =0x300; FreeSpaceOnDisk =0x7a; SizeInMem =0x2fa; FreeSpaceInMem =0x7a;
+.rsrc SizeOnDisk =0x400; FreeSpaceOnDisk =0x38; SizeInMem =0x3b8; FreeSpaceInMem =0x38;
+.reloc SizeOnDisk =0x380; FreeSpaceOnDisk =0x3a; SizeInMem =0x33a; FreeSpaceInMem =0x3a;
+
+5a4d"C:\Program Files\Common Files\VMware\Drivers\memctl\vmmemctl.sys"
+.text SizeOnDisk =0x1a00; FreeSpaceOnDisk =0x1d9; SizeInMem =0x19d9; FreeSpaceInMem =0x9d9;
+.rdata SizeOnDisk =0x200; FreeSpaceOnDisk =0x1e8; SizeInMem =0x1e8; FreeSpaceInMem =0x1e8;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x18; SizeInMem =0x18; FreeSpaceInMem =0x18;
+INIT SizeOnDisk =0x800; FreeSpaceOnDisk =0x3e; SizeInMem =0x63e; FreeSpaceInMem =0x63e;
+.rsrc SizeOnDisk =0x400; FreeSpaceOnDisk =0x1b0; SizeInMem =0x3b0; FreeSpaceInMem =0x3b0;
+.reloc SizeOnDisk =0x200; FreeSpaceOnDisk =0x15e; SizeInMem =0x15e; FreeSpaceInMem =0x15e;
+
+5a4d"C:\Program Files\Common Files\VMware\Drivers\mouse\vmmouse.sys"
+.text SizeOnDisk =0x480; FreeSpaceOnDisk =0x2b; SizeInMem =0x42b; FreeSpaceInMem =0x2b;
+.rdata SizeOnDisk =0x100; FreeSpaceOnDisk =0x47; SizeInMem =0xc7; FreeSpaceInMem =0x47;
+.data SizeOnDisk =0x80; FreeSpaceOnDisk =0x8; SizeInMem =0x8; FreeSpaceInMem =0x8;
+PAGE SizeOnDisk =0x280; FreeSpaceOnDisk =0x4e; SizeInMem =0x24e; FreeSpaceInMem =0x4e;
+INIT SizeOnDisk =0x200; FreeSpaceOnDisk =0x2e; SizeInMem =0x1ae; FreeSpaceInMem =0x2e;
+.rsrc SizeOnDisk =0x400; FreeSpaceOnDisk =0x38; SizeInMem =0x3b8; FreeSpaceInMem =0x38;
+.reloc SizeOnDisk =0x80; FreeSpaceOnDisk =0x56; SizeInMem =0x56; FreeSpaceInMem =0x56;
+
+5a4d"C:\Program Files\Common Files\VMware\Drivers\mouse\vmusbmouse.sys"
+.text SizeOnDisk =0x400; FreeSpaceOnDisk =0x84; SizeInMem =0x284; FreeSpaceInMem =0x284;
+.rdata SizeOnDisk =0x200; FreeSpaceOnDisk =0x174; SizeInMem =0x174; FreeSpaceInMem =0x174;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x20; SizeInMem =0x20; FreeSpaceInMem =0x20;
+PAGE SizeOnDisk =0x400; FreeSpaceOnDisk =0x1f4; SizeInMem =0x3f4; FreeSpaceInMem =0x3f4;
+INIT SizeOnDisk =0x400; FreeSpaceOnDisk =0x1be; SizeInMem =0x3be; FreeSpaceInMem =0x3be;
+.rsrc SizeOnDisk =0x400; FreeSpaceOnDisk =0x1c8; SizeInMem =0x3c8; FreeSpaceInMem =0x3c8;
+.reloc SizeOnDisk =0x200; FreeSpaceOnDisk =0xe6; SizeInMem =0xe6; FreeSpaceInMem =0xe6;
+
+5a4d"C:\Program Files\Common Files\VMware\Drivers\pvscsi\pvscsi.sys"
+.text SizeOnDisk =0x4400; FreeSpaceOnDisk =0xff; SizeInMem =0x42ff; FreeSpaceInMem =0x2ff;
+.rdata SizeOnDisk =0x200; FreeSpaceOnDisk =0x120; SizeInMem =0x120; FreeSpaceInMem =0x120;
+.data SizeOnDisk =0xa00; FreeSpaceOnDisk =0x3a; SizeInMem =0x83a; FreeSpaceInMem =0x83a;
+INIT SizeOnDisk =0x400; FreeSpaceOnDisk =0x17a; SizeInMem =0x37a; FreeSpaceInMem =0x37a;
+.rsrc SizeOnDisk =0x1600; FreeSpaceOnDisk =0x90; SizeInMem =0x1490; FreeSpaceInMem =0x490;
+.reloc SizeOnDisk =0x400; FreeSpaceOnDisk =0xe2; SizeInMem =0x2e2; FreeSpaceInMem =0x2e2;
+
+5a4d"C:\Program Files\Common Files\VMware\Drivers\video_wddm\vm3dmp.sys"
+.text SizeOnDisk =0x1ee00; FreeSpaceOnDisk =0x170; SizeInMem =0x1ed70; FreeSpaceInMem =0xd70;
+.rdata SizeOnDisk =0x2400; FreeSpaceOnDisk =0xe4; SizeInMem =0x22e4; FreeSpaceInMem =0x2e4;
+.data SizeOnDisk =0x1200; FreeSpaceOnDisk =0x1f0; SizeInMem =0x15f0; FreeSpaceInMem =0x5f0;
+PAGE SizeOnDisk =0x3000; FreeSpaceOnDisk =0xc7; SizeInMem =0x2ec7; FreeSpaceInMem =0xec7;
+INIT SizeOnDisk =0xa00; FreeSpaceOnDisk =0x1de; SizeInMem =0x9de; FreeSpaceInMem =0x9de;
+.rsrc SizeOnDisk =0x400; FreeSpaceOnDisk =0x198; SizeInMem =0x398; FreeSpaceInMem =0x398;
+.reloc SizeOnDisk =0x1000; FreeSpaceOnDisk =0x1a4; SizeInMem =0xfa4; FreeSpaceInMem =0xfa4;
+
+5a4d"C:\Program Files\Common Files\VMware\Drivers\vmxnet3\vmxnet3n61x86.sys"
+.text SizeOnDisk =0xda00; FreeSpaceOnDisk =0x105; SizeInMem =0xd905; FreeSpaceInMem =0x905;
+.rdata SizeOnDisk =0x400; FreeSpaceOnDisk =0x1f4; SizeInMem =0x3f4; FreeSpaceInMem =0x3f4;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x8c; SizeInMem =0x48c; FreeSpaceInMem =0x48c;
+INIT SizeOnDisk =0xa00; FreeSpaceOnDisk =0x164; SizeInMem =0x964; FreeSpaceInMem =0x964;
+.rsrc SizeOnDisk =0x400; FreeSpaceOnDisk =0; SizeInMem =0x400; FreeSpaceInMem =0x400;
+.reloc SizeOnDisk =0x800; FreeSpaceOnDisk =0xde; SizeInMem =0x6de; FreeSpaceInMem =0x6de;
+
+5a4d"C:\Program Files\Common Files\VMware\Drivers\vss\comreg.exe"
+.text SizeOnDisk =0x11000; FreeSpaceOnDisk =0x70; SizeInMem =0x10e70; FreeSpaceInMem =0xe70;
+.rdata SizeOnDisk =0x3c00; FreeSpaceOnDisk =0x1ec; SizeInMem =0x3bec; FreeSpaceInMem =0xbec;
+.data SizeOnDisk =0x1400; FreeSpaceOnDisk =0x18; SizeInMem =0x3018; FreeSpaceInMem =0x18;
+.reloc SizeOnDisk =0x1c00; FreeSpaceOnDisk =0x76; SizeInMem =0x1a76; FreeSpaceInMem =0xa76;
+
+5a4d"C:\Program Files\DVD Maker\DVDMaker.exe"
+.text SizeOnDisk =0x5fc00; FreeSpaceOnDisk =0x16f; SizeInMem =0x5fb6f; FreeSpaceInMem =0xb6f;
+.data SizeOnDisk =0xc00; FreeSpaceOnDisk =0x1e8; SizeInMem =0x13e8; FreeSpaceInMem =0x3e8;
+.rsrc SizeOnDisk =0x17a000; FreeSpaceOnDisk =0xd0; SizeInMem =0x179ed0; FreeSpaceInMem =0xed0;
+.reloc SizeOnDisk =0x6800; FreeSpaceOnDisk =0x90; SizeInMem =0x6690; FreeSpaceInMem =0x690;
+
+5a4d"C:\Program Files\Far Manager\Far.exe"
+.text SizeOnDisk =0x317600; FreeSpaceOnDisk =0x1af; SizeInMem =0x3175af; FreeSpaceInMem =0x5af;
+.rdata SizeOnDisk =0x92200; FreeSpaceOnDisk =0x188; SizeInMem =0x92188; FreeSpaceInMem =0x188;
+.data SizeOnDisk =0x16000; FreeSpaceOnDisk =0x13c; SizeInMem =0x4dd3c; FreeSpaceInMem =0xd3c;
+.tls SizeOnDisk =0x10200; FreeSpaceOnDisk =0x29; SizeInMem =0x10029; FreeSpaceInMem =0x29;
+.gfids SizeOnDisk =0x400; FreeSpaceOnDisk =0x1dc; SizeInMem =0x3dc; FreeSpaceInMem =0x3dc;
+.rsrc SizeOnDisk =0x32200; FreeSpaceOnDisk =0x180; SizeInMem =0x32180; FreeSpaceInMem =0x180;
+.reloc SizeOnDisk =0x27800; FreeSpaceOnDisk =0xbc; SizeInMem =0x276bc; FreeSpaceInMem =0x6bc;
+
+5a4d"C:\Program Files\Far Manager\Plugins\ArcLite\7z.sfx"
+.text SizeOnDisk =0x26000; FreeSpaceOnDisk =0x95; SizeInMem =0x25e95; FreeSpaceInMem =0xe95;
+.rdata SizeOnDisk =0x6000; FreeSpaceOnDisk =0xe0; SizeInMem =0x5ee0; FreeSpaceInMem =0xee0;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x17c; SizeInMem =0x457c; FreeSpaceInMem =0x57c;
+.sxdata SizeOnDisk =0x200; FreeSpaceOnDisk =0x4; SizeInMem =0x4; FreeSpaceInMem =0x4;
+.rsrc SizeOnDisk =0x2200; FreeSpaceOnDisk =0x90; SizeInMem =0x2090; FreeSpaceInMem =0x90;
+
+5a4d"C:\Program Files\Far Manager\Plugins\ArcLite\7zCon.sfx"
+.text SizeOnDisk =0x22c00; FreeSpaceOnDisk =0x45; SizeInMem =0x22a45; FreeSpaceInMem =0xa45;
+.rdata SizeOnDisk =0x5e00; FreeSpaceOnDisk =0xf2; SizeInMem =0x5cf2; FreeSpaceInMem =0xcf2;
+.data SizeOnDisk =0x400; FreeSpaceOnDisk =0x11c; SizeInMem =0x471c; FreeSpaceInMem =0x71c;
+.sxdata SizeOnDisk =0x200; FreeSpaceOnDisk =0x4; SizeInMem =0x4; FreeSpaceInMem =0x4;
+.rsrc SizeOnDisk =0xa00; FreeSpaceOnDisk =0x18; SizeInMem =0x818; FreeSpaceInMem =0x818;
+
+5a4d"C:\Program Files\Far Manager\Plugins\ArcLite\7zS2.sfx"
+.text SizeOnDisk =0x6e00; FreeSpaceOnDisk =0x19c; SizeInMem =0x6d9c; FreeSpaceInMem =0xd9c;
+.rdata SizeOnDisk =0x800; FreeSpaceOnDisk =0x182; SizeInMem =0x782; FreeSpaceInMem =0x782;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x54; SizeInMem =0x2054; FreeSpaceInMem =0x54;
+.rsrc SizeOnDisk =0xa00; FreeSpaceOnDisk =0x18; SizeInMem =0x818; FreeSpaceInMem =0x818;
+
+5a4d"C:\Program Files\Far Manager\Plugins\ArcLite\7zS2con.sfx"
+.text SizeOnDisk =0x6e00; FreeSpaceOnDisk =0x14c; SizeInMem =0x6d4c; FreeSpaceInMem =0xd4c;
+.rdata SizeOnDisk =0x800; FreeSpaceOnDisk =0x14e; SizeInMem =0x74e; FreeSpaceInMem =0x74e;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x54; SizeInMem =0x2054; FreeSpaceInMem =0x54;
+.rsrc SizeOnDisk =0xa00; FreeSpaceOnDisk =0x18; SizeInMem =0x818; FreeSpaceInMem =0x818;
+
+5a4d"C:\Program Files\Far Manager\Plugins\ArcLite\7zSD.sfx"
+.text SizeOnDisk =0x16c00; FreeSpaceOnDisk =0x45; SizeInMem =0x16a45; FreeSpaceInMem =0xa45;
+.rdata SizeOnDisk =0x3800; FreeSpaceOnDisk =0xfc; SizeInMem =0x36fc; FreeSpaceInMem =0x6fc;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x30; SizeInMem =0x2430; FreeSpaceInMem =0x430;
+.sxdata SizeOnDisk =0x200; FreeSpaceOnDisk =0x4; SizeInMem =0x4; FreeSpaceInMem =0x4;
+.rsrc SizeOnDisk =0xc00; FreeSpaceOnDisk =0xb0; SizeInMem =0xab0; FreeSpaceInMem =0xab0;
+
+5a4d"C:\Program Files\Internet Explorer\ExtExport.exe"
+.text SizeOnDisk =0x1f400; FreeSpaceOnDisk =0x11a; SizeInMem =0x1f31a; FreeSpaceInMem =0x31a;
+.data SizeOnDisk =0x400; FreeSpaceOnDisk =0x1e4; SizeInMem =0x9e4; FreeSpaceInMem =0x9e4;
+.rsrc SizeOnDisk =0x800; FreeSpaceOnDisk =0x110; SizeInMem =0x710; FreeSpaceInMem =0x710;
+.reloc SizeOnDisk =0x3400; FreeSpaceOnDisk =0x32; SizeInMem =0x3232; FreeSpaceInMem =0x232;
+
+5a4d"C:\Program Files\Internet Explorer\ieinstal.exe"
+.text SizeOnDisk =0x25e00; FreeSpaceOnDisk =0x88; SizeInMem =0x25c88; FreeSpaceInMem =0xc88;
+.data SizeOnDisk =0x400; FreeSpaceOnDisk =0x1cc; SizeInMem =0x7cc; FreeSpaceInMem =0x7cc;
+.rsrc SizeOnDisk =0x30a00; FreeSpaceOnDisk =0xd8; SizeInMem =0x308d8; FreeSpaceInMem =0x8d8;
+.reloc SizeOnDisk =0x4200; FreeSpaceOnDisk =0xee; SizeInMem =0x40ee; FreeSpaceInMem =0xee;
+
+5a4d"C:\Program Files\Internet Explorer\ielowutil.exe"
+.text SizeOnDisk =0x2600; FreeSpaceOnDisk =0x124; SizeInMem =0x2524; FreeSpaceInMem =0x524;
+.data SizeOnDisk =0x400; FreeSpaceOnDisk =0x88; SizeInMem =0x688; FreeSpaceInMem =0x688;
+.rsrc SizeOnDisk =0x18a00; FreeSpaceOnDisk =0x170; SizeInMem =0x18970; FreeSpaceInMem =0x970;
+.reloc SizeOnDisk =0xc00; FreeSpaceOnDisk =0x3c; SizeInMem =0xa3c; FreeSpaceInMem =0xa3c;
+
+5a4d"C:\Program Files\Internet Explorer\iexplore.exe"
+.text SizeOnDisk =0xa200; FreeSpaceOnDisk =0x85; SizeInMem =0xa085; FreeSpaceInMem =0x85;
+.data SizeOnDisk =0x600; FreeSpaceOnDisk =0x18; SizeInMem =0x618; FreeSpaceInMem =0x618;
+.rsrc SizeOnDisk =0x97200; FreeSpaceOnDisk =0x20; SizeInMem =0x97020; FreeSpaceInMem =0x20;
+.reloc SizeOnDisk =0xc00; FreeSpaceOnDisk =0x18c; SizeInMem =0xb8c; FreeSpaceInMem =0xb8c;
+
+5a4d"C:\Program Files\VMware\VMware Tools\Drivers\hgfs\vmhgfs.sys"
+.text SizeOnDisk =0x14380; FreeSpaceOnDisk =0x7c; SizeInMem =0x1437c; FreeSpaceInMem =0x7c;
+.rdata SizeOnDisk =0xb00; FreeSpaceOnDisk =0x54; SizeInMem =0xad4; FreeSpaceInMem =0x54;
+.data SizeOnDisk =0xc00; FreeSpaceOnDisk =0x24; SizeInMem =0xba4; FreeSpaceInMem =0x24;
+PAGE SizeOnDisk =0x4100; FreeSpaceOnDisk =0x38; SizeInMem =0x40b8; FreeSpaceInMem =0x38;
+INIT SizeOnDisk =0x1580; FreeSpaceOnDisk =0x10; SizeInMem =0x1510; FreeSpaceInMem =0x10;
+.rsrc SizeOnDisk =0x400; FreeSpaceOnDisk =0x30; SizeInMem =0x3b0; FreeSpaceInMem =0x30;
+.reloc SizeOnDisk =0xe80; FreeSpaceOnDisk =0x2a; SizeInMem =0xe2a; FreeSpaceInMem =0x2a;
+
+5a4d"C:\Program Files\VMware\VMware Tools\guestproxycerttool.exe"
+.text SizeOnDisk =0x3600; FreeSpaceOnDisk =0x180; SizeInMem =0x3580; FreeSpaceInMem =0x580;
+.rdata SizeOnDisk =0x2800; FreeSpaceOnDisk =0x89; SizeInMem =0x2689; FreeSpaceInMem =0x689;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x1b4; SizeInMem =0x5b4; FreeSpaceInMem =0x5b4;
+.rsrc SizeOnDisk =0x200; FreeSpaceOnDisk =0x1a8; SizeInMem =0x1a8; FreeSpaceInMem =0x1a8;
+.reloc SizeOnDisk =0x800; FreeSpaceOnDisk =0xf2; SizeInMem =0x6f2; FreeSpaceInMem =0x6f2;
+
+5a4d"C:\Program Files\VMware\VMware Tools\openssl.exe"
+.text SizeOnDisk =0x47200; FreeSpaceOnDisk =0x17e; SizeInMem =0x4717e; FreeSpaceInMem =0x17e;
+.rdata SizeOnDisk =0x18000; FreeSpaceOnDisk =0xe; SizeInMem =0x17e0e; FreeSpaceInMem =0xe0e;
+.data SizeOnDisk =0x2600; FreeSpaceOnDisk =0x54; SizeInMem =0x3a54; FreeSpaceInMem =0xa54;
+.rsrc SizeOnDisk =0x400; FreeSpaceOnDisk =0xb4; SizeInMem =0x2b4; FreeSpaceInMem =0x2b4;
+.reloc SizeOnDisk =0x6200; FreeSpaceOnDisk =0x44; SizeInMem =0x6044; FreeSpaceInMem =0x44;
+
+5a4d"C:\Program Files\VMware\VMware Tools\rpctool.exe"
+.text SizeOnDisk =0x11600; FreeSpaceOnDisk =0x111; SizeInMem =0x11511; FreeSpaceInMem =0x511;
+.rdata SizeOnDisk =0x2400; FreeSpaceOnDisk =0x13c; SizeInMem =0x233c; FreeSpaceInMem =0x33c;
+.data SizeOnDisk =0x1400; FreeSpaceOnDisk =0x58; SizeInMem =0x3258; FreeSpaceInMem =0x258;
+.reloc SizeOnDisk =0x1400; FreeSpaceOnDisk =0xb2; SizeInMem =0x12b2; FreeSpaceInMem =0x2b2;
+
+5a4d"C:\Program Files\VMware\VMware Tools\rvmSetup.exe"
+.text SizeOnDisk =0x2200; FreeSpaceOnDisk =0xee; SizeInMem =0x20ee; FreeSpaceInMem =0xee;
+.rdata SizeOnDisk =0x1a00; FreeSpaceOnDisk =0x1fa; SizeInMem =0x19fa; FreeSpaceInMem =0x9fa;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x1e0; SizeInMem =0x3e0; FreeSpaceInMem =0x3e0;
+.rsrc SizeOnDisk =0x3400; FreeSpaceOnDisk =0x98; SizeInMem =0x3298; FreeSpaceInMem =0x298;
+.reloc SizeOnDisk =0x600; FreeSpaceOnDisk =0xae; SizeInMem =0x4ae; FreeSpaceInMem =0x4ae;
+
+5a4d"C:\Program Files\VMware\VMware Tools\TPAutoConnect.exe"
+.text SizeOnDisk =0x241c00; FreeSpaceOnDisk =0x13c; SizeInMem =0x241b3c; FreeSpaceInMem =0xb3c;
+.rdata SizeOnDisk =0x9da00; FreeSpaceOnDisk =0x1a8; SizeInMem =0x9d9a8; FreeSpaceInMem =0x9a8;
+.data SizeOnDisk =0x9200; FreeSpaceOnDisk =0xa8; SizeInMem =0x118a8; FreeSpaceInMem =0x8a8;
+.rsrc SizeOnDisk =0x63c00; FreeSpaceOnDisk =0xd8; SizeInMem =0x63ad8; FreeSpaceInMem =0xad8;
+.reloc SizeOnDisk =0x2e600; FreeSpaceOnDisk =0x174; SizeInMem =0x2e574; FreeSpaceInMem =0x574;
+
+5a4d"C:\Program Files\VMware\VMware Tools\TPAutoConnSvc.exe"
+.text SizeOnDisk =0x131e00; FreeSpaceOnDisk =0x1f; SizeInMem =0x131c1f; FreeSpaceInMem =0xc1f;
+.rdata SizeOnDisk =0x51600; FreeSpaceOnDisk =0x13a; SizeInMem =0x5153a; FreeSpaceInMem =0x53a;
+.data SizeOnDisk =0x5e00; FreeSpaceOnDisk =0x11c; SizeInMem =0xd71c; FreeSpaceInMem =0x71c;
+.rsrc SizeOnDisk =0x5ee00; FreeSpaceOnDisk =0x1e8; SizeInMem =0x5ede8; FreeSpaceInMem =0xde8;
+.reloc SizeOnDisk =0x2a800; FreeSpaceOnDisk =0xa2; SizeInMem =0x2a6a2; FreeSpaceInMem =0x6a2;
+
+5a4d"C:\Program Files\VMware\VMware Tools\TPVCGateway.exe"
+.text SizeOnDisk =0x12fc00; FreeSpaceOnDisk =0xba; SizeInMem =0x12faba; FreeSpaceInMem =0xaba;
+.rdata SizeOnDisk =0x47400; FreeSpaceOnDisk =0xfe; SizeInMem =0x472fe; FreeSpaceInMem =0x2fe;
+.data SizeOnDisk =0x6000; FreeSpaceOnDisk =0x11c; SizeInMem =0xd91c; FreeSpaceInMem =0x91c;
+.rsrc SizeOnDisk =0x20e00; FreeSpaceOnDisk =0x15c; SizeInMem =0x20d5c; FreeSpaceInMem =0xd5c;
+.reloc SizeOnDisk =0x2a400; FreeSpaceOnDisk =0xb2; SizeInMem =0x2a2b2; FreeSpaceInMem =0x2b2;
+
+5a4d"C:\Program Files\VMware\VMware Tools\vmacthlp.exe"
+.text SizeOnDisk =0x38400; FreeSpaceOnDisk =0x1f5; SizeInMem =0x383f5; FreeSpaceInMem =0x3f5;
+.rdata SizeOnDisk =0x1a800; FreeSpaceOnDisk =0x1a4; SizeInMem =0x1a7a4; FreeSpaceInMem =0x7a4;
+.data SizeOnDisk =0x9600; FreeSpaceOnDisk =0x184; SizeInMem =0xbf84; FreeSpaceInMem =0xf84;
+.rsrc SizeOnDisk =0x800; FreeSpaceOnDisk =0x7c; SizeInMem =0x67c; FreeSpaceInMem =0x67c;
+.reloc SizeOnDisk =0x6800; FreeSpaceOnDisk =0x92; SizeInMem =0x6692; FreeSpaceInMem =0x692;
+
+5a4d"C:\Program Files\VMware\VMware Tools\vmrawdsk.sys"
+.text SizeOnDisk =0x6200; FreeSpaceOnDisk =0x127; SizeInMem =0x6127; FreeSpaceInMem =0x127;
+.rdata SizeOnDisk =0xa00; FreeSpaceOnDisk =0xec; SizeInMem =0x8ec; FreeSpaceInMem =0x8ec;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x28; SizeInMem =0x28; FreeSpaceInMem =0x28;
+INIT SizeOnDisk =0x600; FreeSpaceOnDisk =0x4c; SizeInMem =0x44c; FreeSpaceInMem =0x44c;
+.rsrc SizeOnDisk =0x400; FreeSpaceOnDisk =0x1a8; SizeInMem =0x3a8; FreeSpaceInMem =0x3a8;
+.reloc SizeOnDisk =0x600; FreeSpaceOnDisk =0xc6; SizeInMem =0x4c6; FreeSpaceInMem =0x4c6;
+
+5a4d"C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"
+.text SizeOnDisk =0x5c00; FreeSpaceOnDisk =0x161; SizeInMem =0x5b61; FreeSpaceInMem =0xb61;
+.rdata SizeOnDisk =0x3c00; FreeSpaceOnDisk =0x140; SizeInMem =0x3b40; FreeSpaceInMem =0xb40;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x4c; SizeInMem =0x44c; FreeSpaceInMem =0x44c;
+.rsrc SizeOnDisk =0x3400; FreeSpaceOnDisk =0x88; SizeInMem =0x3288; FreeSpaceInMem =0x288;
+.reloc SizeOnDisk =0xa00; FreeSpaceOnDisk =0x1ba; SizeInMem =0x9ba; FreeSpaceInMem =0x9ba;
+
+5a4d"C:\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthCLI.exe"
+.text SizeOnDisk =0x2800; FreeSpaceOnDisk =0x1d4; SizeInMem =0x27d4; FreeSpaceInMem =0x7d4;
+.rdata SizeOnDisk =0x2c00; FreeSpaceOnDisk =0x1de; SizeInMem =0x2bde; FreeSpaceInMem =0xbde;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x1ac; SizeInMem =0x3ac; FreeSpaceInMem =0x3ac;
+.rsrc SizeOnDisk =0x800; FreeSpaceOnDisk =0x130; SizeInMem =0x730; FreeSpaceInMem =0x730;
+.reloc SizeOnDisk =0xa00; FreeSpaceOnDisk =0x5a; SizeInMem =0x85a; FreeSpaceInMem =0x85a;
+
+5a4d"C:\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthService.exe"
+.text SizeOnDisk =0x11c00; FreeSpaceOnDisk =0x2b; SizeInMem =0x11a2b; FreeSpaceInMem =0xa2b;
+.rdata SizeOnDisk =0xc400; FreeSpaceOnDisk =0x2a; SizeInMem =0xc22a; FreeSpaceInMem =0x22a;
+.data SizeOnDisk =0x400; FreeSpaceOnDisk =0x94; SizeInMem =0x694; FreeSpaceInMem =0x694;
+.rsrc SizeOnDisk =0x800; FreeSpaceOnDisk =0x124; SizeInMem =0x724; FreeSpaceInMem =0x724;
+.reloc SizeOnDisk =0x2000; FreeSpaceOnDisk =0x160; SizeInMem =0x1f60; FreeSpaceInMem =0xf60;
+
+5a4d"C:\Program Files\VMware\VMware Tools\VMware VGAuth\VMwareAliasImport.exe"
+.text SizeOnDisk =0x5000; FreeSpaceOnDisk =0x66; SizeInMem =0x4e66; FreeSpaceInMem =0xe66;
+.rdata SizeOnDisk =0x1000; FreeSpaceOnDisk =0x1ba; SizeInMem =0xfba; FreeSpaceInMem =0xfba;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x38; SizeInMem =0x838; FreeSpaceInMem =0x838;
+.rsrc SizeOnDisk =0x800; FreeSpaceOnDisk =0xa8; SizeInMem =0x6a8; FreeSpaceInMem =0x6a8;
+.reloc SizeOnDisk =0x600; FreeSpaceOnDisk =0; SizeInMem =0x600; FreeSpaceInMem =0x600;
+
+5a4d"C:\Program Files\VMware\VMware Tools\VMwareHgfsClient.exe"
+.text SizeOnDisk =0x1400; FreeSpaceOnDisk =0x12c; SizeInMem =0x132c; FreeSpaceInMem =0x32c;
+.rdata SizeOnDisk =0xc00; FreeSpaceOnDisk =0x6e; SizeInMem =0xa6e; FreeSpaceInMem =0xa6e;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x3c; SizeInMem =0x43c; FreeSpaceInMem =0x43c;
+.rsrc SizeOnDisk =0x800; FreeSpaceOnDisk =0x74; SizeInMem =0x674; FreeSpaceInMem =0x674;
+.reloc SizeOnDisk =0x400; FreeSpaceOnDisk =0x9e; SizeInMem =0x29e; FreeSpaceInMem =0x29e;
+
+5a4d"C:\Program Files\VMware\VMware Tools\VMwareHostOpen.exe"
+.text SizeOnDisk =0x6c00; FreeSpaceOnDisk =0x123; SizeInMem =0x6b23; FreeSpaceInMem =0xb23;
+.rdata SizeOnDisk =0x4400; FreeSpaceOnDisk =0x11c; SizeInMem =0x431c; FreeSpaceInMem =0x31c;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x124; SizeInMem =0x524; FreeSpaceInMem =0x524;
+.rsrc SizeOnDisk =0x4c00; FreeSpaceOnDisk =0x144; SizeInMem =0x4b44; FreeSpaceInMem =0xb44;
+.reloc SizeOnDisk =0x1600; FreeSpaceOnDisk =0x152; SizeInMem =0x1552; FreeSpaceInMem =0x552;
+
+5a4d"C:\Program Files\VMware\VMware Tools\VMwareResolutionSet.exe"
+.text SizeOnDisk =0x9e00; FreeSpaceOnDisk =0x21; SizeInMem =0x9c21; FreeSpaceInMem =0xc21;
+.rdata SizeOnDisk =0x7000; FreeSpaceOnDisk =0x1f8; SizeInMem =0x6ff8; FreeSpaceInMem =0xff8;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x74; SizeInMem =0x474; FreeSpaceInMem =0x474;
+.rsrc SizeOnDisk =0xa00; FreeSpaceOnDisk =0x134; SizeInMem =0x934; FreeSpaceInMem =0x934;
+.reloc SizeOnDisk =0x1200; FreeSpaceOnDisk =0xc8; SizeInMem =0x10c8; FreeSpaceInMem =0xc8;
+
+5a4d"C:\Program Files\VMware\VMware Tools\VMwareToolboxCmd.exe"
+.text SizeOnDisk =0x3600; FreeSpaceOnDisk =0x84; SizeInMem =0x3484; FreeSpaceInMem =0x484;
+.rdata SizeOnDisk =0x2e00; FreeSpaceOnDisk =0x1c2; SizeInMem =0x2dc2; FreeSpaceInMem =0xdc2;
+.data SizeOnDisk =0x200; FreeSpaceOnDisk =0x1dc; SizeInMem =0x3dc; FreeSpaceInMem =0x3dc;
+.rsrc SizeOnDisk =0x800; FreeSpaceOnDisk =0x90; SizeInMem =0x690; FreeSpaceInMem =0x690;
+.reloc SizeOnDisk =0x600; FreeSpaceOnDisk =0x1f8; SizeInMem =0x5f8; FreeSpaceInMem =0x5f8;
+
+5a4d"C:\Program Files\VMware\VMware Tools\VMwareXferlogs.exe"
+.text SizeOnDisk =0x16a00; FreeSpaceOnDisk =0x191; SizeInMem =0x16991; FreeSpaceInMem =0x991;
+.rdata SizeOnDisk =0x2e00; FreeSpaceOnDisk =0xc2; SizeInMem =0x2cc2; FreeSpaceInMem =0xcc2;
+.data SizeOnDisk =0x1e00; FreeSpaceOnDisk =0x38; SizeInMem =0x3838; FreeSpaceInMem =0x838;
+.rsrc SizeOnDisk =0x800; FreeSpaceOnDisk =0x28; SizeInMem =0x628; FreeSpaceInMem =0x628;
+.reloc SizeOnDisk =0x1600; FreeSpaceOnDisk =0xd6; SizeInMem =0x14d6; FreeSpaceInMem =0x4d6;
+
+5a4d"C:\Program Files\VMware\VMware Tools\zip.exe"
+.text SizeOnDisk =0x19000; FreeSpaceOnDisk =0xf41; SizeInMem =0x18f41; FreeSpaceInMem =0xf41;
+.rdata SizeOnDisk =0x6000; FreeSpaceOnDisk =0xb08; SizeInMem =0x5b08; FreeSpaceInMem =0xb08;
+.data SizeOnDisk =0x1000; FreeSpaceOnDisk =0x344; SizeInMem =0x4e344; FreeSpaceInMem =0x344;
+
+5a4d"C:\Program Files\Windows Defender\MpCmdRun.exe"
+.text SizeOnDisk =0x22000; FreeSpaceOnDisk =0x2a; SizeInMem =0x21e2a; FreeSpaceInMem =0xe2a;
+.data SizeOnDisk =0x800; FreeSpaceOnDisk =0x1a4; SizeInMem =0xba4; FreeSpaceInMem =0xba4;
+.rsrc SizeOnDisk =0x800; FreeSpaceOnDisk =0x28; SizeInMem =0x628; FreeSpaceInMem =0x628;
+.reloc SizeOnDisk =0x3200; FreeSpaceOnDisk =0x5e; SizeInMem =0x305e; FreeSpaceInMem =0x5e;
+

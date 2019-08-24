@@ -1,0 +1,10 @@
+/NODEFAULTLIB
+/NOLOGO
+/OUT:../dictionary32.lib
+buffer_list.obj
+add.obj
+load.obj
+find.obj
+print.obj
+..\vr_pe_file32.lib
+

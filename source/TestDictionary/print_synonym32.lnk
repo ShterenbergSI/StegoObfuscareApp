@@ -1,0 +1,17 @@
+/ENTRY:entry
+/FIXED
+/NOLOGO
+/NODEFAULTLIB
+/MACHINE:X86
+/SUBSYSTEM:CONSOLE
+/DEBUG
+/DEBUGTYPE:CV
+/OUT:print_synonym32.exe
+/INCREMENTAL:NO
+print_synonym.obj
+kernel32.lib
+user32.lib
+msvcrt.lib
+Shell32.lib
+Imagehlp.lib
+dictionary32.lib

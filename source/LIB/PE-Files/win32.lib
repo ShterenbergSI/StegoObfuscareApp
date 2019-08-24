@@ -1,0 +1,6 @@
+/NODEFAULTLIB
+/NOLOGO
+/OUT:..\vr_pe_file32.lib
+file.obj
+section.obj
+import.obj
