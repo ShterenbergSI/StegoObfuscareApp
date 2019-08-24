@@ -32,23 +32,23 @@
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.опцииToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.обфускацияToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem4 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem5 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem6 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripMenuItem7 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem8 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem9 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem10 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem11 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem12 = new System.Windows.Forms.ToolStripMenuItem();
-            this.вложениеВФункциюToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.внедрениеКодаВМодулиToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.button1 = new System.Windows.Forms.Button();
             this.toolStripMenuItem13 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem14 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem15 = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
+            this.вложениеВФункциюToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.внедрениеКодаВМодулиToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem7 = new System.Windows.Forms.ToolStripMenuItem();
+            this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
@@ -108,22 +108,6 @@
             this.обфускацияToolStripMenuItem.Size = new System.Drawing.Size(88, 20);
             this.обфускацияToolStripMenuItem.Text = "Обфускация";
             // 
-            // toolStripMenuItem2
-            // 
-            this.toolStripMenuItem2.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.вложениеВФункциюToolStripMenuItem,
-            this.внедрениеКодаВМодулиToolStripMenuItem});
-            this.toolStripMenuItem2.Name = "toolStripMenuItem2";
-            this.toolStripMenuItem2.Size = new System.Drawing.Size(103, 20);
-            this.toolStripMenuItem2.Text = "Стеганография";
-            this.toolStripMenuItem2.Click += new System.EventHandler(this.ToolStripMenuItem2_Click);
-            // 
-            // toolStripMenuItem3
-            // 
-            this.toolStripMenuItem3.Name = "toolStripMenuItem3";
-            this.toolStripMenuItem3.Size = new System.Drawing.Size(155, 20);
-            this.toolStripMenuItem3.Text = "Операции замен команд";
-            // 
             // toolStripMenuItem4
             // 
             this.toolStripMenuItem4.Name = "toolStripMenuItem4";
@@ -142,12 +126,6 @@
             this.toolStripMenuItem6.Size = new System.Drawing.Size(247, 22);
             this.toolStripMenuItem6.Text = "Уровень промежуточного кода";
             // 
-            // toolStripMenuItem7
-            // 
-            this.toolStripMenuItem7.Name = "toolStripMenuItem7";
-            this.toolStripMenuItem7.Size = new System.Drawing.Size(98, 20);
-            this.toolStripMenuItem7.Text = "Работы с СМК";
-            // 
             // toolStripMenuItem8
             // 
             this.toolStripMenuItem8.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -163,7 +141,7 @@
             // toolStripMenuItem9
             // 
             this.toolStripMenuItem9.Name = "toolStripMenuItem9";
-            this.toolStripMenuItem9.Size = new System.Drawing.Size(214, 22);
+            this.toolStripMenuItem9.Size = new System.Drawing.Size(237, 22);
             this.toolStripMenuItem9.Text = "Лексическая обфускация";
             // 
             // toolStripMenuItem10
@@ -184,28 +162,6 @@
             this.toolStripMenuItem12.Name = "toolStripMenuItem12";
             this.toolStripMenuItem12.Size = new System.Drawing.Size(237, 22);
             this.toolStripMenuItem12.Text = "Профилактическая обфуская";
-            // 
-            // вложениеВФункциюToolStripMenuItem
-            // 
-            this.вложениеВФункциюToolStripMenuItem.Name = "вложениеВФункциюToolStripMenuItem";
-            this.вложениеВФункциюToolStripMenuItem.Size = new System.Drawing.Size(215, 22);
-            this.вложениеВФункциюToolStripMenuItem.Text = "Вложение в функцию";
-            // 
-            // внедрениеКодаВМодулиToolStripMenuItem
-            // 
-            this.внедрениеКодаВМодулиToolStripMenuItem.Name = "внедрениеКодаВМодулиToolStripMenuItem";
-            this.внедрениеКодаВМодулиToolStripMenuItem.Size = new System.Drawing.Size(215, 22);
-            this.внедрениеКодаВМодулиToolStripMenuItem.Text = "Внедрение кода в модули";
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(12, 121);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(163, 37);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Тест эффективности стеговложения";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.Button1_Click);
             // 
             // toolStripMenuItem13
             // 
@@ -228,6 +184,50 @@
             this.toolStripMenuItem15.Size = new System.Drawing.Size(184, 22);
             this.toolStripMenuItem15.Text = "Chenxi Wang`s";
             // 
+            // toolStripMenuItem2
+            // 
+            this.toolStripMenuItem2.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.вложениеВФункциюToolStripMenuItem,
+            this.внедрениеКодаВМодулиToolStripMenuItem});
+            this.toolStripMenuItem2.Name = "toolStripMenuItem2";
+            this.toolStripMenuItem2.Size = new System.Drawing.Size(103, 20);
+            this.toolStripMenuItem2.Text = "Стеганография";
+            this.toolStripMenuItem2.Click += new System.EventHandler(this.ToolStripMenuItem2_Click);
+            // 
+            // вложениеВФункциюToolStripMenuItem
+            // 
+            this.вложениеВФункциюToolStripMenuItem.Name = "вложениеВФункциюToolStripMenuItem";
+            this.вложениеВФункциюToolStripMenuItem.Size = new System.Drawing.Size(215, 22);
+            this.вложениеВФункциюToolStripMenuItem.Text = "Вложение в функцию";
+            // 
+            // внедрениеКодаВМодулиToolStripMenuItem
+            // 
+            this.внедрениеКодаВМодулиToolStripMenuItem.Name = "внедрениеКодаВМодулиToolStripMenuItem";
+            this.внедрениеКодаВМодулиToolStripMenuItem.Size = new System.Drawing.Size(215, 22);
+            this.внедрениеКодаВМодулиToolStripMenuItem.Text = "Внедрение кода в модули";
+            // 
+            // toolStripMenuItem3
+            // 
+            this.toolStripMenuItem3.Name = "toolStripMenuItem3";
+            this.toolStripMenuItem3.Size = new System.Drawing.Size(155, 20);
+            this.toolStripMenuItem3.Text = "Операции замен команд";
+            // 
+            // toolStripMenuItem7
+            // 
+            this.toolStripMenuItem7.Name = "toolStripMenuItem7";
+            this.toolStripMenuItem7.Size = new System.Drawing.Size(98, 20);
+            this.toolStripMenuItem7.Text = "Работы с СМК";
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(12, 121);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(163, 37);
+            this.button1.TabIndex = 1;
+            this.button1.Text = "Тест эффективности стеговложения";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.Button1_Click);
+            // 
             // button2
             // 
             this.button2.Location = new System.Drawing.Point(15, 179);
@@ -236,6 +236,7 @@
             this.button2.TabIndex = 2;
             this.button2.Text = "Тест эффективности обфускации";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.Button2_Click);
             // 
             // button3
             // 
@@ -245,6 +246,7 @@
             this.button3.TabIndex = 3;
             this.button3.Text = "Анализатор PE";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.Button3_Click);
             // 
             // dataGridView1
             // 
