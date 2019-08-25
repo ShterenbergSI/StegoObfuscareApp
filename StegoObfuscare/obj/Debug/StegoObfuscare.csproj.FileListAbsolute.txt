@@ -8,3 +8,4 @@ D:\Project\StegoObfuscare\obj\Debug\StegoObfuscare.csproj.GenerateResource.cache
 D:\Project\StegoObfuscare\obj\Debug\StegoObfuscare.csproj.CoreCompileInputs.cache
 D:\Project\StegoObfuscare\obj\Debug\StegoObfuscare.exe
 D:\Project\StegoObfuscare\obj\Debug\StegoObfuscare.pdb
+D:\Project\StegoObfuscare\obj\Debug\StegoObfuscare.Form2.resources

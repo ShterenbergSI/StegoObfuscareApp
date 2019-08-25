@@ -65,6 +65,7 @@
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.radioButton3 = new System.Windows.Forms.RadioButton();
             this.label4 = new System.Windows.Forms.Label();
+            this.button10 = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -113,18 +114,21 @@
             this.toolStripMenuItem4.Name = "toolStripMenuItem4";
             this.toolStripMenuItem4.Size = new System.Drawing.Size(247, 22);
             this.toolStripMenuItem4.Text = "Уровень исходных текстов";
+            this.toolStripMenuItem4.Click += new System.EventHandler(this.ToolStripMenuItem4_Click);
             // 
             // toolStripMenuItem5
             // 
             this.toolStripMenuItem5.Name = "toolStripMenuItem5";
             this.toolStripMenuItem5.Size = new System.Drawing.Size(247, 22);
             this.toolStripMenuItem5.Text = "Операции с машинным кодом";
+            this.toolStripMenuItem5.Click += new System.EventHandler(this.ToolStripMenuItem5_Click);
             // 
             // toolStripMenuItem6
             // 
             this.toolStripMenuItem6.Name = "toolStripMenuItem6";
             this.toolStripMenuItem6.Size = new System.Drawing.Size(247, 22);
             this.toolStripMenuItem6.Text = "Уровень промежуточного кода";
+            this.toolStripMenuItem6.Click += new System.EventHandler(this.ToolStripMenuItem6_Click);
             // 
             // toolStripMenuItem8
             // 
@@ -143,6 +147,7 @@
             this.toolStripMenuItem9.Name = "toolStripMenuItem9";
             this.toolStripMenuItem9.Size = new System.Drawing.Size(237, 22);
             this.toolStripMenuItem9.Text = "Лексическая обфускация";
+            this.toolStripMenuItem9.Click += new System.EventHandler(this.ToolStripMenuItem9_Click);
             // 
             // toolStripMenuItem10
             // 
@@ -156,12 +161,14 @@
             this.toolStripMenuItem11.Name = "toolStripMenuItem11";
             this.toolStripMenuItem11.Size = new System.Drawing.Size(237, 22);
             this.toolStripMenuItem11.Text = "Преобразование управления";
+            this.toolStripMenuItem11.Click += new System.EventHandler(this.ToolStripMenuItem11_Click);
             // 
             // toolStripMenuItem12
             // 
             this.toolStripMenuItem12.Name = "toolStripMenuItem12";
             this.toolStripMenuItem12.Size = new System.Drawing.Size(237, 22);
             this.toolStripMenuItem12.Text = "Профилактическая обфуская";
+            this.toolStripMenuItem12.Click += new System.EventHandler(this.ToolStripMenuItem12_Click);
             // 
             // toolStripMenuItem13
             // 
@@ -177,12 +184,14 @@
             this.toolStripMenuItem14.Name = "toolStripMenuItem14";
             this.toolStripMenuItem14.Size = new System.Drawing.Size(184, 22);
             this.toolStripMenuItem14.Text = "Алгоритм Колберга";
+            this.toolStripMenuItem14.Click += new System.EventHandler(this.ToolStripMenuItem14_Click);
             // 
             // toolStripMenuItem15
             // 
             this.toolStripMenuItem15.Name = "toolStripMenuItem15";
             this.toolStripMenuItem15.Size = new System.Drawing.Size(184, 22);
             this.toolStripMenuItem15.Text = "Chenxi Wang`s";
+            this.toolStripMenuItem15.Click += new System.EventHandler(this.ToolStripMenuItem15_Click);
             // 
             // toolStripMenuItem2
             // 
@@ -199,18 +208,21 @@
             this.вложениеВФункциюToolStripMenuItem.Name = "вложениеВФункциюToolStripMenuItem";
             this.вложениеВФункциюToolStripMenuItem.Size = new System.Drawing.Size(215, 22);
             this.вложениеВФункциюToolStripMenuItem.Text = "Вложение в функцию";
+            this.вложениеВФункциюToolStripMenuItem.Click += new System.EventHandler(this.ВложениеВФункциюToolStripMenuItem_Click);
             // 
             // внедрениеКодаВМодулиToolStripMenuItem
             // 
             this.внедрениеКодаВМодулиToolStripMenuItem.Name = "внедрениеКодаВМодулиToolStripMenuItem";
             this.внедрениеКодаВМодулиToolStripMenuItem.Size = new System.Drawing.Size(215, 22);
             this.внедрениеКодаВМодулиToolStripMenuItem.Text = "Внедрение кода в модули";
+            this.внедрениеКодаВМодулиToolStripMenuItem.Click += new System.EventHandler(this.ВнедрениеКодаВМодулиToolStripMenuItem_Click);
             // 
             // toolStripMenuItem3
             // 
             this.toolStripMenuItem3.Name = "toolStripMenuItem3";
             this.toolStripMenuItem3.Size = new System.Drawing.Size(155, 20);
             this.toolStripMenuItem3.Text = "Операции замен команд";
+            this.toolStripMenuItem3.Click += new System.EventHandler(this.ToolStripMenuItem3_Click);
             // 
             // toolStripMenuItem7
             // 
@@ -274,15 +286,17 @@
             this.button4.TabIndex = 6;
             this.button4.Text = "Анализатор Lib";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.Button4_Click);
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(583, 179);
+            this.button5.Location = new System.Drawing.Point(570, 179);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(64, 37);
             this.button5.TabIndex = 7;
             this.button5.Text = "Редактор Lib";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.Button5_Click);
             // 
             // button6
             // 
@@ -302,6 +316,7 @@
             this.button7.TabIndex = 9;
             this.button7.Text = "Генератор обфускации";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.Button7_Click);
             // 
             // label2
             // 
@@ -323,21 +338,23 @@
             // 
             // button8
             // 
-            this.button8.Location = new System.Drawing.Point(583, 234);
+            this.button8.Location = new System.Drawing.Point(552, 230);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(64, 37);
+            this.button8.Size = new System.Drawing.Size(95, 24);
             this.button8.TabIndex = 12;
-            this.button8.Text = "Тест Lib";
+            this.button8.Text = "Тест Lib add";
             this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.Button8_Click);
             // 
             // button9
             // 
             this.button9.Location = new System.Drawing.Point(484, 179);
             this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(93, 92);
+            this.button9.Size = new System.Drawing.Size(62, 118);
             this.button9.TabIndex = 13;
             this.button9.Text = "Деобфускация";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.Button9_Click);
             // 
             // radioButton1
             // 
@@ -381,11 +398,22 @@
             this.label4.TabIndex = 17;
             this.label4.Text = "Режимы";
             // 
+            // button10
+            // 
+            this.button10.Location = new System.Drawing.Point(552, 269);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(95, 24);
+            this.button10.TabIndex = 18;
+            this.button10.Text = "Тест Lib print";
+            this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.Button10_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(661, 311);
+            this.Controls.Add(this.button10);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.radioButton3);
             this.Controls.Add(this.radioButton2);
@@ -406,7 +434,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Тестер СтегоОбфускации";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
@@ -454,6 +482,7 @@
         private System.Windows.Forms.RadioButton radioButton2;
         private System.Windows.Forms.RadioButton radioButton3;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Button button10;
     }
 }
 
